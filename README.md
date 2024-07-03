@@ -174,3 +174,4 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 | sheets      | 93600      |
 | word        | 89579      |
 | sql         | 85397      |
+
